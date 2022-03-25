@@ -11,7 +11,7 @@ it's loosing voltage, or energy.
 
 # HIGH LEVEL REQUIREMENTS
 
-| ID | DESCRIPTION | 
+| ID | DESCRIPTION |   
 | --- | --- |
 | HR01 | Getting Voltage signal, current signal and SOC % in scope |
 | HR02 | In graph the battery percentage should be increase 0 to 100 |
