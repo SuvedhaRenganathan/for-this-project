@@ -26,7 +26,8 @@ it's loosing voltage, or energy.
 | LR02 | In display the battery percentage should have shown decreasingly from 100 to 0 |
 
 ## SWOT ANALYSIS
-![SWOT](https://user-images.githubusercontent.com/98849090/160049830-a0728001-92cb-41c5-a838-8f2f237fdf09.jpg)
+![image](https://user-images.githubusercontent.com/98879965/160074501-edd49862-ef6f-4210-b4ee-45b1296e3a7e.png)
+
 
 
 ## WHO
