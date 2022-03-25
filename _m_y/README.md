@@ -37,4 +37,4 @@ Wherever the battery is implemented
 ## Why 
 To check battery percentage 
 ## How
-On the display it will shown
+On the display battery percentage will shown
